@@ -13,5 +13,5 @@ I am a Mathematician transitioning into Data Analytics. I love leveraging my fou
 - **Core Skills:** Statistical Analysis, A/B Testing, Problem Solving
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Insert your LinkedIn URL here]
+- **LinkedIn:** www.linkedin.com/in/robertosousacarranza
 - **Email:** robertosousacarranza@gmail.com
