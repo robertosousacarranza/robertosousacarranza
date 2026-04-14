@@ -1,17 +1,18 @@
 ### Hi there, I'm Roberto! 👋
 
-I am a Mathematician transitioning into Data Analytics. I love leveraging my foundation in complex logic, probability, and statistical analysis to extract meaningful stories and actionable insights from raw data.
+I am a Mathematician specializing in Machine Learning and Data Analytics. I leverage a rigorous foundation in advanced logic, probability, and optimization to design predictive models and extract actionable business insights from complex datasets. 
 
-- 🔭 I’m currently building my portfolio with data manipulation and visualization projects.
-- 🌱 I’m currently completing the **Google Data Analytics Professional Certificate**.
-- 🧠 My background includes academic research, tutoring, and foundational Machine Learning.
-- ⚡ Fun fact: When I'm not querying databases or cleaning data, you can find me playing the double bass, reading surrealist fiction, or exploring the depths of Minecraft.
+- 🔭 **Currently working on:** Engineering end-to-end machine learning projects, from data cleaning in SQL to deploying predictive models and interactive Tableau dashboards.
+- 🌱 **Education & Certifications:** Holding a Diploma in Machine Learning & Data Science (Graduated with Honors) and currently completing the **Google Data Analytics Professional Certificate**.
+- 🧠 **Technical Focus:** Applying mathematical theory to build robust algorithms, including Random Forests, K-Nearest Neighbors, PCA, and Convolutional Neural Networks (CNNs).
+- ⚡ **Fun fact:** When I'm not training models or optimizing SQL queries, you can find me playing the double bass, reading surrealist fiction, or exploring the technical depths of Minecraft.
 
-### 🛠️ Tech Stack
-- **Languages:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy)
-- **Data Viz & Tools:** Tableau, Excel, Git
-- **Core Skills:** Statistical Analysis, A/B Testing, Problem Solving
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras), SQL (PostgreSQL, MySQL)
+- **Machine Learning:** Supervised/Unsupervised Learning, Dimensionality Reduction, Time Series Forecasting, Neural Networks
+- **Data Viz & Workflows:** Tableau, Power BI, Excel, Git/GitHub
+- **Core Competencies:** Statistical Modeling, A/B Testing, Data Storytelling, Algorithmic Problem Solving
 
 ### 📫 Let's Connect!
-- **LinkedIn:** www.linkedin.com/in/robertosousacarranza
+- **LinkedIn:** [linkedin.com/in/robertosousacarranza](https://linkedin.com/in/robertosousacarranza)
 - **Email:** robertosousacarranza@gmail.com
